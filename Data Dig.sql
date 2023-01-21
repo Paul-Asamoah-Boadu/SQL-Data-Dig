@@ -1,5 +1,3 @@
-DROP TABLE inventory;
-
 /* Create table named Inventory */
 CREATE TABLE inventory 
 	(Id INTEGER PRIMARY KEY, orderdate CHAR (20) NOT NULL, 
