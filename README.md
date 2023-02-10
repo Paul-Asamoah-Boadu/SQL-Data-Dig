@@ -67,7 +67,7 @@ Some of the key concepts tackled in this project were;
 
 Further queries can be performed on the "Inventory" table to analyze and extract meaningful information from the data.
 
-<a id="recommedation"></a>
+<a id="recommendation"></a>
 <h2>Project Recommendation</h2>
 
 This project is a great opportunity for anyone looking to learn about database design and SQL. Whether you're a beginner or an experienced database administrator, you will find this project both challenging and rewarding. With a comprehensive design and well-documented code, this project is easy to understand and customize to your needs.
