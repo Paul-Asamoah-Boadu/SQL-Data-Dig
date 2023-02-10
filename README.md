@@ -1,6 +1,10 @@
 <h1>SQL Data Dig</h1>
 
-This project showcases the creation and population of an SQL table named "Inventory". The table contains information on the sales and profits of different products across various regions and dates.
+<h2>Introduction</h2>
+
+This project is a comprehensive database system designed to handle the storage and retrieval of inventory information for a small to medium-sized business. The database is built using SQL and is designed to efficiently store and manage data on products, suppliers, orders, and customer information.
+
+
 
 <h2>Table Structure</h2>
 
