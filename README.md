@@ -4,17 +4,10 @@
 
 <ul>
     <li><a href="#intro">Introduction</a></li>
-    <li><a href="#softwares">What Softwares Do I Need?</a></li>
-    <li><a href="#motivation">Project Motivation</a></li>
-    <li><a href="#details">Project Details</a></li>
-      <ul>
-            <li><a href="#gathering">Gathering Data</a></li>
-            <li><a href="#assessing">Assessing Data</a></li>
-            <li><a href="#cleaning">Cleaning Data</a></li>
-            <li><a href="#storing">Storing, Analyzing, and Visualizing Data</a></li>
-        </ul>
-    <li><a href="#report">Report</a></li>
-    <li><a href="#reference">References</a></li>
+    <li><a href="#structure">Table Structure</a></li>
+    <li><a href="#content">Table Content</a></li>
+    <li><a href="#queries">Queries</a></li>
+    <li><a href="#recommendation">Project Recommendation</a></li>
 </ul>
 
 <a id="intro"></a>
@@ -34,8 +27,7 @@ This project is a comprehensive database system designed to handle the storage a
 
 - __Reporting__: Generate reports on product and supplier information, order history, and customer information.
 
-This project is a great opportunity for anyone looking to learn about database design and SQL. Whether you're a beginner or an experienced database administrator, you will find this project both challenging and rewarding. With a comprehensive design and well-documented code, this project is easy to understand and customize to your needs.
-
+<a id="structure"></a>
 <h2>Table Structure</h2>
 
 The "Inventory" table contains the following columns:
@@ -56,10 +48,12 @@ The "Inventory" table contains the following columns:
 
 `profit`: A float representing the profit made from the order.
 
+<a id="content"></a>
 <h2>Table Content</h2>
 
 The "Inventory" table is populated with a total of 30 entries with different values for each column.
 
+<a id="queries"></a>
 <h2>Queries</h2>
 
 Advanced SQL SELECT queries to make discoveries about various datasets. 
@@ -72,3 +66,8 @@ Some of the key concepts tackled in this project were;
 - aggregating and summarizing data using Postgres clauses. 
 
 Further queries can be performed on the "Inventory" table to analyze and extract meaningful information from the data.
+
+<a id="recommedations"></a>
+<h2>Project Recommendation</h2>
+
+This project is a great opportunity for anyone looking to learn about database design and SQL. Whether you're a beginner or an experienced database administrator, you will find this project both challenging and rewarding. With a comprehensive design and well-documented code, this project is easy to understand and customize to your needs.
