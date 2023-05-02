@@ -17,7 +17,7 @@ This project is a comprehensive database system designed to handle the storage a
 
 <h3>Features of the system include:</h3>
 
-- __Product Management__: Store product information such as name, price, quantity, and supplier information.
+- Product Management__: Store product information such as name, price, quantity, and supplier information.
 
 - __Supplier Management__: Store and manage information on suppliers, including contact information and products supplied.
 
