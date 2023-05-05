@@ -21,7 +21,7 @@ This project is a comprehensive database system designed to handle the storage a
 
 - <b>Supplier Management</b>: Store and manage information on suppliers, including contact information and products supplied.
 
-- <b>Order Management__: Keep track of customer orders, including the products ordered and the date of the order.
+- <b>Order Management_: Keep track of customer orders, including the products ordered and the date of the order.
 
 - __Customer Management__: Store and manage customer information, including name, contact information, and order history.
 
