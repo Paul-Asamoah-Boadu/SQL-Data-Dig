@@ -25,7 +25,7 @@ This project is a comprehensive database system designed to handle the storage a
 
 - <b>Customer Management</b>: Store and manage customer information, including name, contact information, and order history.
 
-- __Reporting__: Generate reports on product and supplier information, order history, and customer information.
+- _Reporting__: Generate reports on product and supplier information, order history, and customer information.
 
 <a id="structure"></a>
 <h2>Table Structure</h2>
