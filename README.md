@@ -32,7 +32,7 @@ This project is a comprehensive database system designed to handle the storage a
 
 The "Inventory" table contains the following columns:
 
-`Id`: An integer that serves as the primary key for each entry.
+<Id>: An integer that serves as the primary key for each entry.
 
 `orderdate`: A date string in the format of "YYYY-MM-DD" that represents the date of the order.
 
