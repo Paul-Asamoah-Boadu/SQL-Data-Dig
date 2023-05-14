@@ -34,7 +34,7 @@ The "Inventory" table contains the following columns:
 
 <code>Id</code>: An integer that serves as the primary key for each entry.
 
-<code>orderdate<co>: A date string in the format of "YYYY-MM-DD" that represents the date of the order.
+<code>orderdate<cod>: A date string in the format of "YYYY-MM-DD" that represents the date of the order.
 
 `region`: A string representing the region the order was made in.
 
