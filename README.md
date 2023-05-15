@@ -36,7 +36,7 @@ The "Inventory" table contains the following columns:
 
 <code>orderdate</code>: A date string in the format of "YYYY-MM-DD" that represents the date of the order.
 
-`region`: A string representing the region the order was made in.
+region`: A string representing the region the order was made in.
 
 `product`: A string representing the product that was ordered.
 
