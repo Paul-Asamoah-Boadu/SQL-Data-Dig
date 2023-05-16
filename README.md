@@ -38,7 +38,7 @@ The "Inventory" table contains the following columns:
 
 <code>region</code>: A string representing the region the order was made in.
 
-`product`: A string representing the product that was ordered.
+<code>product</code>: A string representing the product that was ordered.
 
 `sales`: A float representing the total sales amount for the order.
 
