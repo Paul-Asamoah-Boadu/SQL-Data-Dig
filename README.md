@@ -40,7 +40,7 @@ The "Inventory" table contains the following columns:
 
 <code>product</code>: A string representing the product that was ordered.
 
-<cod>sales<>: A float representing the total sales amount for the order.
+<cod>sales</>: A float representing the total sales amount for the order.
 
 `quantity`: An integer representing the quantity of the product ordered.
 
