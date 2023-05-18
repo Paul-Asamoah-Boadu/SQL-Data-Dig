@@ -42,7 +42,7 @@ The "Inventory" table contains the following columns:
 
 <code>sales</code>: A float representing the total sales amount for the order.
 
-`quantity`: An integer representing the quantity of the product ordered.
+<code>quantity</code>: An integer representing the quantity of the product ordered.
 
 `discount`: A float representing the discount applied to the order.
 
