@@ -46,7 +46,7 @@ The "Inventory" table contains the following columns:
 
 <code>discount</code>: A float representing the discount applied to the order.
 
-<>profit</>: A float representing the profit made from the order.
+<code>profit</>: A float representing the profit made from the order.
 
 <a id="content"></a>
 <h2>Table Content</h2>
